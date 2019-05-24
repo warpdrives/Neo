@@ -1,4 +1,5 @@
 # Neo
+
 Swift security closure
 
 ### Compatibility
@@ -14,7 +15,7 @@ or submit [Issues] and we will respond as soon as possible.
 
 ### License
 
-**Nesting** is available under the  `Apache 2.0` license. See the [LICENSE] file for more info.
+**Neo** is available under the  `Apache 2.0` license. See the [LICENSE] file for more info.
 
 [Issues]:                 https://github.com/warpdrives/Nesting/issues/new
 [LICENSE]:                https://github.com/warpdrives/Nesting/blob/master/LICENSE
